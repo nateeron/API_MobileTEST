@@ -1,0 +1,7 @@
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\API_MobileTEST.exe
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\API_MobileTEST.dll
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\API_MobileTEST.deps.json
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\API_MobileTEST.runtimeconfig.json
+G:\M_save\c#\API_MobileTEST\API_MobileTEST\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\API_MobileTEST.pdb
